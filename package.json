@@ -1,0 +1,26 @@
+{
+  "name": "node-module-mastery",
+  "version": "1.0.0",
+  "description": "Mastering Node",
+  "main": "node-module-mastery.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evantsmith/node-module-mastery.git"
+  },
+  "keywords": [
+    "introduction",
+    "mastering",
+    "node"
+  ],
+  "author": "Evan Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evantsmith/node-module-mastery/issues"
+  },
+  "homepage": "https://github.com/evantsmith/node-module-mastery#readme"
+}
