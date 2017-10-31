@@ -44,7 +44,7 @@ fs.readFile(process.argv[2],'utf8', function read(err,data) {
 
 
 
-//console.log(newText);
+
 
 
 
